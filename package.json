@@ -19,13 +19,17 @@
   ],
   "dependencies": {
     "electron-debug": "^1.0.0",
+    "optimizely-oui": "^24.0.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
+    "babel-cli": "^6.23.0",
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
     "babel-preset-env": "^1.1.10",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
     "devtron": "^1.1.0",
     "electron": "^1.0.1",
     "electron-packager": "^8.0.0",
