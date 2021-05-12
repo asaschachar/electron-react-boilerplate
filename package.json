@@ -30,7 +30,7 @@
     "babel-preset-latest": "^6.22.0",
     "babel-preset-react": "^6.23.0",
     "devtron": "^1.1.0",
-    "electron": "^1.0.1",
+    "electron": "^10",
     "electron-packager": "^8.0.0",
     "xo": "^0.16.0"
   },
